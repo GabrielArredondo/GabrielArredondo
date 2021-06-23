@@ -10,18 +10,18 @@
    <h3>Enlace De Desarrollo De Software Jr </h3>
    <br>
  <label>Tareas a realizar</label>: Desarrollar software de acuerdo a los lineamientos y 
-estándares de desarrollo del sistema de gestión de calidad, documentar 
-el desarrollo en base a los formatos del procedimiento de desarrollo del 
-sistema de gestión de calidad, para el desarrollo de aplicaciones web y 
-microservicios
+estándares de desarrollo del sistema de gestión de calidad, para el desarrollo de aplicaciones web, movil y
+microservicios con Angular Cli, Ionic Framework, .Net Core, JavaScript, Scss, Css, MDBoostrap, PHP, TypeScript, git para el versinamiento.
+
 <br>
 -----------------------------------------------------------------------------------------------------
 <br>
 <h3>Diseño gráfico</h3>
 <p>
-<label>Tareas realizadas</label>: Gestionar y desarrollar aplicaciones multimedia que 
-permitan difundir los servicios del centro de cómputo UAQ mediante 
-herramientas informáticas a través de su sitio web y redes sociales.
+<label>Tareas realizadas</label>: Desarrollar aplicaciones multimedia que 
+permitan difundir  servicios y productos  mediante 
+herramientas informáticas como Photoshop CC, Illustrator CC, Animate CC, Filmora y Autodesk Maya
+ a través de  sitios web y redes sociales.
 </p>
 
 ### Preferencia de tecnología y herramientas
