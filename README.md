@@ -42,7 +42,10 @@ herramientas informáticas como Photoshop CC, Illustrator CC, Animate CC, Filmor
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 ---
-
+|Organizer|Organizer|Mentor|
+|---------|---------|------|
+|<a href="http://casinaeba.guanajuato.gob.mx/siga/login.jsp"><img src="https://user-images.githubusercontent.com/32500559/124538082-a70d1f80-dde0-11eb-9c91-0df0199861d8.PNG" height="100px"></a>|<a href="https://play.google.com/store/apps/details?id=inaeba.appsoyinaeba.gto&hl=es_MX"><img src="https://user-images.githubusercontent.com/32500559/124538314-0703c600-dde1-11eb-81e2-0ffb8ae28b9c.PNG" height="100px"></a>|
+-------------------------------------------------------------------
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielArredondo&show_icons=true&hide_border=true)
 
 Consulte las estadísticas detalladas aquí :point_right: [Sourcerer](https://sourcerer.io/GabrielArredondo)
