@@ -47,9 +47,9 @@ herramientas informáticas como Photoshop CC, Illustrator CC, Animate CC, Filmor
 |CAS|SoyInaeba|SARYSA|
 |---------|---------|------|
 |<a href="http://casinaeba.guanajuato.gob.mx/siga/login.jsp"><img src="https://user-images.githubusercontent.com/32500559/124538082-a70d1f80-dde0-11eb-9c91-0df0199861d8.PNG" height="200px"></a>|<a href="https://play.google.com/store/apps/details?id=inaeba.appsoyinaeba.gto&hl=es_MX"><img src="https://user-images.githubusercontent.com/32500559/124538314-0703c600-dde1-11eb-81e2-0ffb8ae28b9c.PNG" height="200px"></a>|<a href="http://200.33.114.167/sarysa/#/login"><img src="https://user-images.githubusercontent.com/32500559/124539122-74642680-dde2-11eb-95c5-1815e993380a.PNG" height="200px"></a>|
-|Diseño 3D|
+|Diseño 3D Proyecto personal|
 |---------|---------|------|
-|<a href="http://casinaeba.guanajuato.gob.mx/siga/login.jsp"><img src="https://user-images.githubusercontent.com/32500559/124538082-a70d1f80-dde0-11eb-9c91-0df0199861d8.PNG" height="200px"></a>|<a href="https://play.google.com/store/apps/details?id=inaeba.appsoyinaeba.gto&hl=es_MX"><img src="https://user-images.githubusercontent.com/32500559/124538314-0703c600-dde1-11eb-81e2-0ffb8ae28b9c.PNG" height="200px"></a>|<a href="http://200.33.114.167/sarysa/#/login"><img src="https://user-images.githubusercontent.com/32500559/124539122-74642680-dde2-11eb-95c5-1815e993380a.PNG" height="200px"></a>|
+|<a href="https://user-images.githubusercontent.com/32500559/124540913-f86bdd80-dde5-11eb-9a1e-b670fc17db69.PNG"><img src="https://user-images.githubusercontent.com/32500559/124540913-f86bdd80-dde5-11eb-9a1e-b670fc17db69.PNG" height="200px"></a>|<a href="https://user-images.githubusercontent.com/32500559/124541079-53053980-dde6-11eb-88dc-036b1fce167e.PNG"><img src="https://user-images.githubusercontent.com/32500559/124541079-53053980-dde6-11eb-88dc-036b1fce167e.PNG" height="200px"></a>|
 -------------------------------------------------------------------
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielArredondo&show_icons=true&hide_border=true)
 
