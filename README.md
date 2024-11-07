@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/32500559/122512576-ab5acf80-cfce-11eb-9198-cb97ddc5d012.jpg" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/user-attachments/assets/7ec10255-f920-4217-b1d4-88a7185ac2fe" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 ### Actual
