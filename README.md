@@ -1,4 +1,4 @@
-### Hola Soy Gabriel 👋
+#### Hola Soy Gabriel 👋
 
 ---
 
@@ -6,23 +6,20 @@
   <img src="https://user-images.githubusercontent.com/32500559/122512576-ab5acf80-cfce-11eb-9198-cb97ddc5d012.jpg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-<h1>Experiencias</h1
-   <h3>Enlace De Desarrollo De Software Jr </h3>
-   <br>
- <label>Tareas a realizar</label>: Desarrollar software de acuerdo a los lineamientos y 
-estándares de desarrollo del sistema de gestión de calidad, para el desarrollo de aplicaciones web, movil y
-microservicios con Angular Cli, Ionic Framework, .Net Core, JavaScript, Scss, Css, MDBoostrap, PHP, TypeScript, git para el versinamiento.
+### Actual
+#### Analista Desarrollador
 
-<br>
+**Tareas a realizar**:  
+Desarrollar soluciones lógicas basadas en requerimientos para nuevos desarrollos y aplicaciones existentes, con el fin de satisfacer las necesidades de los clientes. Esto incluye la creación de nuevas interfaces que cumplan con las especificaciones solicitadas por el usuario.
+
+**Actividades**:  
+- Crear y modificar aplicaciones web utilizando Angular CLI.
+- Consumir servicios para garantizar la modularidad y escalabilidad.
+- Gestionar el control de versiones con Git.
+- Trabajar con Web Components, entornos de desarrollo, formularios reactivos, Guards, interceptores, interfaces y carga diferida (Lazy Loading).
+
 -----------------------------------------------------------------------------------------------------
-<br>
-<h3>Diseño gráfico</h3>
-<p>
-<label>Tareas realizadas</label>: Desarrollar aplicaciones multimedia que 
-permitan difundir  servicios y productos  mediante 
-herramientas informáticas como Photoshop CC, Illustrator CC, Animate CC, Filmora y Autodesk Maya
- a través de  sitios web y redes sociales.
-</p>
+
 
 ### Preferencia de tecnología y herramientas
 
