@@ -62,4 +62,4 @@ Consulte las estadísticas detalladas aquí :point_right: [Sourcerer](https://so
 
 
 
-[linkedin]: https://www.facebook.com/gabriel.arredondo.792/](https://www.linkedin.com/in/gabriel-arredondo-91b542217/
+[linkedin]: https://www.linkedin.com/in/gabriel-arredondo-91b542217/
