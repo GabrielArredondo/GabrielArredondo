@@ -56,12 +56,10 @@ Consulte las estadísticas detalladas aquí :point_right: [Sourcerer](https://so
 
 
 ### Puedes encontrarme en la web 🌍
-[<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
 
 
 
-[facebook]: https://www.facebook.com/gabriel.arredondo.792/
-[instagram]: https://www.instagram.com/gabriel97ag/
+[linkedin]: https://www.facebook.com/gabriel.arredondo.792/](https://www.linkedin.com/in/gabriel-arredondo-91b542217/
